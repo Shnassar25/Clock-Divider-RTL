@@ -28,3 +28,8 @@ q2 (negedge)       +-------+               +-------+
                
 o_div_clk      +-----------+           +-----------+
 (q1 | q2)      |           |___________|           |___________ (1.5 cycles HIGH / 1.5 cycles LOW = 50%)
+Division Ratio (N),Single-Edge Logic (Initial),Dual-Edge Phase-Shift (Enhanced),Target Duty Cycle
+Divide-by-2 (EVEN),1.0 Cycle HIGH / 1.0 Cycle LOW,Direct Counter Toggle (q1​),50.0%
+Divide-by-3 (ODD),2.0 Cycles HIGH / 1.0 Cycle LOW,1.5 Cycles HIGH / 1.5 Cycles LOW (q1​∣q2​),50.0%
+Divide-by-4 (EVEN),2.0 Cycles HIGH / 2.0 Cycles LOW,Direct Counter Toggle (q1​),50.0%
+Divide-by-5 (ODD),3.0 Cycles HIGH / 2.0 Cycles LOW,2.5 Cycles HIGH / 2.5 Cycles LOW (q1​∣q2​),50.0%
