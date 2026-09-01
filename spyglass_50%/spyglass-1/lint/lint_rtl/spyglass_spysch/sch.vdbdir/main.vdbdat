@@ -1,0 +1,12 @@
+#x HLBEGIN S.1
+#x {}
+#x 62 { @@n 2 @@p 2 }
+#x HLEND
+#x HLBEGIN S.2
+#x {}
+#x 62 { @@n 4 @@p 4 }
+#x HLEND
+#x HLBEGIN S.3
+#x {}
+#x 62 { @@n 12 @@p 12 }
+#x HLEND

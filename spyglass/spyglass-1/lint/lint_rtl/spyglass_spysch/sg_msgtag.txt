@@ -1,0 +1,34 @@
+-1 "AutoGenerateSglib" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "CMD_sglib03" 2
+"RULEGROUP"
+["Command-line read"]
+"BUILTIN"
+"1"
+-1 "DetectTopDesignUnits" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "ElabSummary" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "RegInputOutput-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[63]
+"RULEGROUP"
+["morelint"]
+-1 "ReportPortInfo-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[42]
+"RULEGROUP"
+["morelint"]

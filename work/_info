@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Shahoda\el temsah\UART_RX
+vClk_div
+Z1 Ih_kFC3Q?gFnZ4bFJY;^]L3
+Z2 VokO2T[9H=ob`2F5MfKNH@1
+Z3 dD:\Shahoda\el temsah\assignments\CLK_DIV
+Z4 w1787229383
+Z5 8D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV.v
+Z6 FD:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@clk_div
+Z10 !s100 =OCfiJe120FnbG3QeL=WY2
+Z11 !s108 1787236064.982000
+Z12 !s107 D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV.v|
+Z13 !s90 -reportprogress|300|-work|work|D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vClk_div_50
+Z14 I8BO>Q]PA8IggLGJ5OHTG[1
+Z15 V=<ESX4mW=dP4LLNH5GlMZ2
+R3
+Z16 w1787229859
+Z17 8D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_50.v
+Z18 FD:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_50.v
+L0 3
+R7
+r1
+31
+R8
+Z19 n@clk_div_50
+!i10b 1
+Z20 !s100 X9Z1HMUnGWngYZAz>OYT_1
+!s85 0
+Z21 !s108 1787236065.188000
+Z22 !s107 D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_50.v|
+Z23 !s90 -reportprogress|300|-work|work|D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_50.v|
+!s101 -O0
+vodd_clk_divider
+Z24 I:EfC0kE5d;9m>Rh^3glYW2
+Z25 VKCXQ4Ro[gIK<[iN5bddW_0
+R3
+Z26 w1787226429
+Z27 8vjudg.v
+Z28 Fvjudg.v
+L0 1
+R7
+r1
+31
+Z29 !s108 1787234791.574000
+Z30 !s107 vjudg.v|CLK_DIV_tb.v|CLK_DIV_50.v|CLK_DIV.v|
+Z31 !s90 -reportprogress|300|CLK_DIV.v|CLK_DIV_50.v|CLK_DIV_tb.v|vjudg.v|
+o-O0
+Z32 !s100 flMKf@gm6bOh0C5>7aSOG3
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_Clk_div
+!i10b 1
+!s100 VBm`W:M^?mQOWiPCTHze:3
+I7O?<WLn<HgI;0ZD2FRj^H0
+Z33 V]J_?HeCP0JaJE]0zn<;eV3
+R3
+w1787236058
+8D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_tb.v
+FD:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_tb.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1787236065.317000
+!s107 D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_tb.v|
+!s90 -reportprogress|300|-work|work|D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_tb.v|
+!s101 -O0
+R8
+Z34 ntb_@clk_div

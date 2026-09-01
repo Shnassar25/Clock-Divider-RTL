@@ -1,0 +1,14 @@
+read_file -type verilog ../rtl/CLK_DIV_50.v
+read_file -type gateslib ../std_cells/scmetro_tsmc_cl013g_rvt_tt_1p2v_25c.lib
+
+
+current_goal lint/lint_rtl -alltop
+run_goal
+
+
+
+
+save_project -force /home/ICer/ASS/CLK_DIV/spyglass/lint.prj
+save_project
+gui_exit
+gui_exit

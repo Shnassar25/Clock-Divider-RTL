@@ -1,0 +1,6 @@
+Module Name,Module Type,Port Name,Direction,Width,Index,Comment Source,Comment 
+Clk_div_50,Top_Level,i_ref_clk,INPUT,1,-,-,-
+Clk_div_50,Top_Level,i_rst_n,INPUT,1,-,-,-
+Clk_div_50,Top_Level,i_clk_en,INPUT,1,-,-,-
+Clk_div_50,Top_Level,i_div_ratio,INPUT,8,[7:0],-,-
+Clk_div_50,Top_Level,o_div_clk,OUTPUT,1,-,-,-

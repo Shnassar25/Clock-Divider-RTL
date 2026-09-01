@@ -1,0 +1,6 @@
+SCHEMA@@PName@@Dir@@Msb@@Lsb@@Desc@@DU@@DU_BBOX
+VALUE@@i_ref_clk@@INPUT@@0@@0@@-@@Clk_div@@No
+VALUE@@i_rst_n@@INPUT@@0@@0@@-@@Clk_div@@No
+VALUE@@i_clk_en@@INPUT@@0@@0@@-@@Clk_div@@No
+VALUE@@i_div_ratio@@INPUT@@7@@0@@-@@Clk_div@@No
+VALUE@@o_div_clk@@OUTPUT@@0@@0@@-@@Clk_div@@No

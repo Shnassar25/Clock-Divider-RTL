@@ -1,0 +1,36 @@
+{D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV.v} {1 {vlog -work work {D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Clk_div
+
+Top level modules:
+	Clk_div
+
+} {} {}} {D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_50.v} {1 {vlog -work work {D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_50.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Clk_div_50
+
+Top level modules:
+	Clk_div_50
+
+} {} {}} {D:/Shahoda/el temsah/assignments/CLK DIV/CLK_DIV.v} {1 {vlog -work work {D:/Shahoda/el temsah/assignments/CLK DIV/CLK_DIV.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Clk_div
+
+Top level modules:
+	Clk_div
+
+} {} {}} {D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_tb.v} {1 {vlog -work work {D:/Shahoda/el temsah/assignments/CLK_DIV/CLK_DIV_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Clk_div
+
+Top level modules:
+	tb_Clk_div
+
+} {} {}} {D:/Shahoda/el temsah/assignments/CLK DIV/CLK_DIV_tb.v} {1 {vlog -work work {D:/Shahoda/el temsah/assignments/CLK DIV/CLK_DIV_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Clk_div
+
+Top level modules:
+	tb_Clk_div
+
+} {} {}}

@@ -1,0 +1,11 @@
+SCHEMA@@PName@@HierName
+VALUE@@i_clk_en@@Clk_div
+VALUE@@i_div_ratio[0]@@Clk_div
+VALUE@@i_div_ratio[1]@@Clk_div
+VALUE@@i_div_ratio[2]@@Clk_div
+VALUE@@i_div_ratio[3]@@Clk_div
+VALUE@@i_div_ratio[4]@@Clk_div
+VALUE@@i_div_ratio[5]@@Clk_div
+VALUE@@i_div_ratio[6]@@Clk_div
+VALUE@@i_div_ratio[7]@@Clk_div
+VALUE@@o_div_clk@@Clk_div
