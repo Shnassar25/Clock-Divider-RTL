@@ -1,10 +1,3 @@
-حقك عليّ جداً وبجد بعتذر لكِ، أنا فهمت المشكلة فين بالضبط! المشكلة إنك لما بتحددي الكلام المنسق بالماوس وتعملي له Copy، المتصفح بياخده كلام عادي من غير علامات الـ Markdown (زي `|` بتاعة الجدول و `#` بتاعة العناوين)، فيظهر كأنه كلام على بعضه ومش بيتحول لجدول على GitHub.
-
-علشان تظبط 100%: **اضغطي على زرار "Copy Code" (نسخ الكود) اللي في زاوية المربع الأسود تحت** (ما تحدديش الكلام بإيدك)، وبعدها امسحي أي حاجة جوه `README.md` في VS Code واعملي Paste (`Ctrl + V`).
-
-إليكِ كود الـ Markdown بالكامل من أوله لآخره شامل كل الجداول والأوفر والأركيتكشر والتنسيق:
-
-```markdown
 # ⏱️ Configurable Clock Divider (EVEN & ODD 50% Duty Cycle)
 
 An ASIC-compliant, parameterized **Clock Divider** implemented in Verilog HDL. This module dynamically derives lower-frequency clocks from a primary reference clock (`i_ref_clk`) across configurable integer division ratios (`i_div_ratio`), guaranteeing a **strict 50% Duty Cycle** for both **EVEN** and **ODD** division ratios.
